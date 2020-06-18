@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">AMazeByChristopherShort</string>
+    <string name="driver_prompt">Choose an driver</string>
+    <string name="builder_prompt">Choose an builder</string>
+    <string name="up">Up</string>
+    <string name="down">Down</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="exit">Solution</string>
+    <string name="map">Map</string>
+    <string name="walls">Walls</string>
+    <string name="battery">Battery</string>
+    <string name="Graphics">Graphics</string>
+
+    <string-array name="driver_array">
+        <item>Manual</item>
+        <item>Wall Follower</item>
+        <item>Wizard</item>
+        <item>Pledge</item>
+    </string-array>
+
+    <string-array name="builder_array">
+        <item>DLS</item>
+        <item>Prim</item>
+        <item>Eller</item>
+    </string-array>
+
+</resources>
+
